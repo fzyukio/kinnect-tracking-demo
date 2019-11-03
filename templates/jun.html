@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load widget_tweaks %}
+{% load staticfiles %}
+{% load custom_tags %}
+
+{% block title %}Kinnect visualisation{% endblock %}
+
+{% block content-center %}
+    <div id="rgb">
+        <img>
+    </div>
+    <canvas id="c"></canvas>
+{% endblock %}
+
+{% block modal-dialog %}
+{% endblock %}
+
+
+{% block scripts %}
+    {% debug_mode as is_in_debug_mode %}
+    {% if is_in_debug_mode %}
+    {% else %}
+    {% endif %}
+{% endblock %}

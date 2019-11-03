@@ -1,0 +1,16 @@
+// Main Style
+// Don't forget to change line 36 in .bootstraprc
+@import "../../node_modules/bootswatch/simplex/bootswatch";
+
+// Library
+@import "../../node_modules/font-awesome/scss/font-awesome";
+
+// Customised Vendor
+@import "vendor/custom-bootstrap";
+
+// General
+@import "variables";
+@import "helpers/all";
+@import "global";
+@import "components/all";
+@import "pages/all";

@@ -1,0 +1,9 @@
+.git
+.venv
+.idea
+node_modules
+docker-compose.yml
+db/
+user_data/
+backups/
+notebooks/

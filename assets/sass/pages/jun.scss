@@ -1,0 +1,39 @@
+@import "../variables";
+
+//#c1 {
+//  //position: relative;
+//  height: calc(#{$max-screen-height} - #{$main-content-padding-top} - #{$controller-wrapper-height} - #{$main-content-padding-bottom});
+//}
+//
+//#container {
+//  margin: 10px auto;
+//  width: 640px;
+//  height: 480px;
+//}
+//
+//#connect, #connected {
+//  display: none;
+//  margin-left: auto;
+//  margin-right: auto;
+//}
+//
+//#connect {
+//  width: 200px;
+//}
+//
+//#connected {
+//  width: 100%;
+//  height: 100%;
+//  background-color: #eeeeee;
+//}
+
+#rgb, #c {
+  width: 960px;
+  height: 540px;
+  display: block;
+}
+
+#rgb img {
+  display: none;
+  width: 100%;
+}
