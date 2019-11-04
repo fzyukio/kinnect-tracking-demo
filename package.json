@@ -22,7 +22,7 @@
         "base64-arraybuffer": "^0.1.5",
         "bluebird": "^3.5.1",
         "bootstrap-loader": "^1.2.1",
-        "bootstrap-sass": "3.3.7",
+        "bootstrap-sass": "3.4.1",
         "bootstrap-slider": "^9.7.2",
         "bootswatch": "^3.3.7",
         "classnames": "^2.2.5",
