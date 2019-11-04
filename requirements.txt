@@ -22,7 +22,7 @@ django-model-utils==2.6.1
 django-naomi==0.8
 django-webpack-loader==0.6.0
 django-widget-tweaks==1.4.1
-django-js-reverse==0.8.2
+django-js-reverse==0.9.1
 enum34==1.1.6
 gitdb2==2.0.0
 GitPython==2.1.3
