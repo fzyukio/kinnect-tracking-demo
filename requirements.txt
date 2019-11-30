@@ -46,7 +46,7 @@ pyparsing==2.2.0
 python-dateutil==2.6.0
 python-decouple==3.0
 pytz==2016.10
-PyYAML==5.1
+PyYAML==5.1.2
 redis==2.10.5
 requests==2.20.0
 safety==1.1.1
