@@ -40,7 +40,7 @@
         "font-awesome-webpack": "0.0.5-beta.2",
         "fs": "0.0.1-security",
         "imports-loader": "^0.6.5",
-        "jquery": "^3.1.1",
+        "jquery": "^3.5.0",
         "jquery-contextmenu": "^2.4.4",
         "jquery-getscrollbarwidth": "^1.0.0",
         "jquery.browser": "^0.1.0",
