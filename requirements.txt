@@ -16,7 +16,7 @@ cycler==0.10.0
 dask==0.14.1
 decorator==4.0.11
 dj-database-url==0.4.2
-Django==2.0.12
+Django==2.2.13
 django-log-request-id==1.3.2
 django-model-utils==2.6.1
 django-naomi==0.8
