@@ -4562,9 +4562,9 @@ three-orbitcontrols@^2.108.1:
   version "2.108.1"
   resolved "https://registry.yarnpkg.com/three-orbitcontrols/-/three-orbitcontrols-2.108.1.tgz#3b7877390ee5cde151805646064de3c0be313474"
 
-three@^0.110.0:
-  version "0.110.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.110.0.tgz#8719591de1336269113ee79f4268ba247b2324f8"
+three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
 
 time-stamp@^2.0.0:
   version "2.2.0"
